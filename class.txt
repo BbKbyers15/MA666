@@ -1,2 +1,4 @@
 Chapter 1: The integrate-and-fire model
 Chapter 2: Hodkin-Huxley neuron
+
+Chapter 3: I hope I learn this stuff
